@@ -2,7 +2,7 @@
 
 I'm a software engineer passionate about building cool apps with JavaScript, Node.js, and Electron.
 
-🔗 Connect with me on [LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/tinushmihiran/))
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/tinushmihiran)
 
 🚀 Projects I’m working on:
 - 💻 Desktop Git GUI with Electron
@@ -12,4 +12,3 @@ I'm a software engineer passionate about building cool apps with JavaScript, Nod
 ---
 
 Thanks for visiting my profile!
-
