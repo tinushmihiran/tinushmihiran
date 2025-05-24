@@ -1,4 +1,4 @@
-# Hi, I'm Tinus 👋
+# Hi, I'm Tinush 👋
 
 I'm a software engineer passionate about building cool apps with JavaScript, Node.js, and Electron.
 
